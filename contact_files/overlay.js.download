@@ -1,0 +1,39 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+google.maps.__gjsload__('overlay', function(_){'use strict';var By=_.oa("b"),Cy=_.na(),Dy=function(){var a=this.bg;if(this.getPanes()){if(this.getProjection()){if(!a.b&&this.onAdd)this.onAdd();a.b=!0;this.draw()}}else{if(a.b)if(this.onRemove)this.onRemove();else this.remove();a.b=!1}},Ey=function(a){a.bg=a.bg||new Cy;return a.bg},Fy=function(a){_.yf.call(this);this.$=(0,_.p)(Dy,a)};_.t(By,_.B);
+By.prototype.changed=function(a){"outProjection"!=a&&(a=!!(this.get("offset")&&this.get("projectionTopLeft")&&this.get("projection")&&_.y(this.get("zoom"))),a==!this.get("outProjection")&&this.set("outProjection",a?this.b:null))};_.t(Fy,_.yf);_.mc("overlay",{bl:function(a){var b=a.getMap(),c=Ey(a),d=c.rn;c.rn=b;d&&(c=Ey(a),(d=c.fa)&&d.unbindAll(),(d=c.xi)&&d.unbindAll(),a.unbindAll(),a.set("panes",null),a.set("projection",null),_.v(c.S,_.z.removeListener),c.S=null,c.Xa&&(c.Xa.$(),c.Xa=null),_.Wm("Ox","-p",a));if(b){c=Ey(a);d=c.Xa;d||(d=c.Xa=new Fy(a));_.v(c.S||[],_.z.removeListener);var e=c.fa=c.fa||new _.mm,f=b.__gm;e.bindTo("zoom",f);e.bindTo("offset",f);e.bindTo("center",f,"projectionCenterQ");e.bindTo("projection",b);e.bindTo("projectionTopLeft",
+f);e=c.xi=c.xi||new By(e);e.bindTo("zoom",f);e.bindTo("offset",f);e.bindTo("projection",b);e.bindTo("projectionTopLeft",f);a.bindTo("projection",e,"outProjection");a.bindTo("panes",f);e=(0,_.p)(d.M,d);c.S=[_.z.addListener(a,"panes_changed",e),_.z.addListener(f,"zoom_changed",e),_.z.addListener(f,"offset_changed",e),_.z.addListener(b,"projection_changed",e),_.z.addListener(f,"projectioncenterq_changed",e),_.z.forward(b,"forceredraw",d)];d.M();b instanceof _.ae&&(_.Tm(b,"Ox"),_.Vm("Ox","-p",a,!!b.b))}}});});
+
+
+}
+/*
+     FILE ARCHIVED ON 18:48:34 Sep 27, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:02:59 Sep 14, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 105.746 (2)
+  load_resource: 176.133 (2)
+  exclusion.robots: 0.21
+  cdx.remote: 0.104
+  CDXLines.iter: 20.208 (3)
+  captures_list: 95.164
+  LoadShardBlock: 45.219 (3)
+  PetaboxLoader3.datanode: 67.526 (5)
+  exclusion.robots.policy: 0.197
+  esindex: 0.013
+*/

@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Philosopher';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Philosopher Italic'), local('Philosopher-Italic'), url(https://web.archive.org/web/20200113182904im_/https://fonts.gstatic.com/s/philosopher/v11/vEFX2_5QCwIS4_Dhez5jcWBrf0880g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Philosopher Bold Italic'), local('Philosopher-BoldItalic'), url(https://web.archive.org/web/20200113182904im_/https://fonts.gstatic.com/s/philosopher/v11/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtW_Xw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Philosopher Regular'), local('Philosopher-Regular'), url(https://web.archive.org/web/20200113182904im_/https://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Philosopher Bold'), local('Philosopher-Bold'), url(https://web.archive.org/web/20200113182904im_/https://fonts.gstatic.com/s/philosopher/v11/vEFI2_5QCwIS4_Dhez5jcWjValgb8tI.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 18:29:04 Jan 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:59:20 Sep 14, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 131.533
+  exclusion.robots: 0.066
+  exclusion.robots.policy: 0.061
+  RedisCDXSource: 1.666
+  esindex: 0.006
+  LoadShardBlock: 93.753 (3)
+  PetaboxLoader3.datanode: 71.623 (4)
+  CDXLines.iter: 23.039 (3)
+  load_resource: 71.761
+  PetaboxLoader3.resolve: 38.827
+*/

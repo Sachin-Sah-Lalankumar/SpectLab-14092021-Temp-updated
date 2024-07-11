@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Sans Italic'), local('PTSans-Italic'), url(https://web.archive.org/web/20191021013852im_/http://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0e0x8mN.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Sans Bold Italic'), local('PTSans-BoldItalic'), url(https://web.archive.org/web/20191021013852im_/http://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOydLxUY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(https://web.archive.org/web/20191021013852im_/http://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(https://web.archive.org/web/20191021013852im_/http://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh0O6tKA.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 01:38:52 Oct 21, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:14:49 Sep 14, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1499.782
+  exclusion.robots: 0.096
+  exclusion.robots.policy: 0.088
+  RedisCDXSource: 20.915
+  esindex: 0.012
+  LoadShardBlock: 150.755 (3)
+  PetaboxLoader3.datanode: 97.092 (5)
+  CDXLines.iter: 137.808 (3)
+  load_resource: 174.469 (2)
+  PetaboxLoader3.resolve: 104.063 (2)
+*/
